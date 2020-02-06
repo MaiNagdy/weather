@@ -1,0 +1,11 @@
+To use the API,
+1)Copy the code and paste it in any Editor.
+2)Open the postman app and enter the localhost and the app route in the postman url associated with the params and click send.
+3)you will get the json response of the weather api.
+
+
+Example: http://127.0.0.1:8000/weather?appid={A default API key from the weathermap Api website}&q={city}
+
+
+
+
